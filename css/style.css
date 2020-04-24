@@ -274,6 +274,35 @@ figure figcaption {
   outline: none;
   color: #228896;
 }
+.text-classic{
+    margin-top:2em;
+  margin-bottom:0;
+    padding-bottom: 0;
+}
+
+
+.content-01{
+ margin-top:3em;
+  
+  float: left;
+  clear: both;
+}
+
+.content-02{
+ margin-top:3em;
+    padding-top: 0;
+     margin-left:0;
+    padding-left: 0;
+  
+ 
+}
+.myVideo{
+ margin-top:2em;
+    padding-top: 2em;
+     margin-left:0;
+    padding-left: 0;
+
+}
 
 #fh5co-main {
   width: 80%;
@@ -296,7 +325,7 @@ figure figcaption {
   position: relative;
   width: 93%;
    
-  margin: 3em ;
+  margin: 1em ;
   padding: 1em ;
   
   clear: both;
@@ -310,6 +339,10 @@ figure figcaption {
 }
 
     
+
+
+
+
 #fh5co-hero {
   min-height: 500px;
   background: #fff url(../images/loader.gif) no-repeat center center;
