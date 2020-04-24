@@ -288,19 +288,13 @@ figure figcaption {
   clear: both;
 }
 
-.content-02{
- margin-top:3em;
-    padding-top: 0;
-     margin-left:0;
+
+#myVideo{
+ margin-top:1em;
+    padding-top: 1em;
+     margin-left:14em;
     padding-left: 0;
-  
- 
-}
-.myVideo{
- margin-top:2em;
-    padding-top: 2em;
-     margin-left:0;
-    padding-left: 0;
+
 
 }
 
@@ -319,6 +313,16 @@ figure figcaption {
 @media screen and (max-width: 768px) {
   #fh5co-main {
     width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+#myVideo {
+    width: 70%;
+    height: 30%;
+      margin: 1em ;
+  padding: 1em ;
   }
 }
 #fh5co-main .fh5co-narrow-content {
