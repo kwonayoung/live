@@ -274,7 +274,7 @@ figure figcaption {
   outline: none;
   color: #228896;
 }
-.text-classic{
+.text-classic {
     margin-top:2em;
   margin-bottom:0;
     padding-bottom: 0;
@@ -290,10 +290,13 @@ figure figcaption {
 
 
 #myVideo{
- margin-top:1em;
-    padding-top: 1em;
-     margin-left:14em;
-    padding-left: 0;
+     width:40%;
+
+    position:relative
+      clear: both;
+     margin-top:2em;
+    margin-bottom:2em;
+         text-align: center;
 
 
 }
@@ -317,12 +320,14 @@ figure figcaption {
 }
 
 
+
 @media screen and (max-width: 768px) {
 #myVideo {
     width: 70%;
     height: 30%;
       margin: 1em ;
   padding: 1em ;
+      clear: both;
   }
 }
 #fh5co-main .fh5co-narrow-content {
